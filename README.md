@@ -1,1 +1,1 @@
-# MineKeyHud
+Minekey Basic Hud Plugin
